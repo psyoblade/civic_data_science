@@ -13,46 +13,36 @@ link-citations: yes
 github-repo: rstudio/bookdown-demo
 ---
 
-# About
+# 소개
 
-This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports; for example, a math equation $a^2 + b^2 = c^2$.
+# 목차
 
-## Usage
+1. 서론: 왜 공공 영역에서 데이터 사이언스가 필요한가
 
-Each **bookdown** chapter is an .Rmd file, and each .Rmd file can contain one (and only one) chapter. A chapter *must* start with a first-level heading: `# A good chapter`, and can contain one (and only one) first-level heading.
+2. 데이터가 바꾸는 정부
 
-Use second-level and higher headings within chapters like: `## A short section` or `### An even shorter section`.
+2.1. 정부, 오리지널 빅데이터
 
-The `index.Rmd` file is required, and is also your first book chapter. It will be the homepage when you render the book.
+2.2. 집행, 예산과 지출 사이
 
-## Render book
+2.3. 정부와 민간의 데이터 역량 차이
 
-You can render the HTML version of this example book without changing anything:
+2.4. 데이터, 기술, 사람이 모두 중요하다
 
-1. Find the **Build** pane in the RStudio IDE, and
+3. 데이터가 바꾸는 시민사회
 
-1. Click on **Build Book**, then select your output format, or select "All formats" if you'd like to use multiple formats from the same book source files.
+3.1. 시민사회 = 피플파워
 
-Or build the book from the R console:
+3.2. 행동을 위한 데이터, 평가를 위한 데이터
 
-```{r, eval=FALSE}
-bookdown::render_book()
-```
+3.3. 빅데이터로 그리는 정치, 시민참여의 불평등  
 
-To render this example to PDF as a `bookdown::pdf_book`, you'll need to install XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <https://yihui.org/tinytex/>.
+3.4. 시민 데이터 사이언티스트
 
-## Preview book
+4. 데이터가 바꾸는 민주주의
 
-As you work, you may start a local server to live preview this HTML book. This preview will update as you edit the book when you save individual .Rmd files. You can start the server in a work session by using the RStudio add-in "Preview book", or from the R console:
+4.1. 데이터 주권, 권리는 주어지는 것이 아니라 만들어진다
 
-```{r eval=FALSE}
-bookdown::serve_book()
-```
+4.2. 편리할 것은 편리하게, 불편할 것은 불편하게 
 
-
-```{r include=FALSE}
-# automatically create a bib database for R packages
-knitr::write_bib(c(
-  .packages(), 'bookdown', 'knitr', 'rmarkdown'
-), 'packages.bib')
-```
+5. 결론: 데이터가 있는 곳에 권력이 있다
