@@ -16,6 +16,8 @@ link-citations: yes
 colorlinks: yes 
 ---
 
+# 목차
+
 1. 서론: 왜 공공 영역에서 데이터 사이언스가 필요한가
 
 2. 데이터가 바꾸는 정부
