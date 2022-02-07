@@ -1,3 +1,7 @@
+book_filename: "Civic Data Science"
+output_dir: "docs"
+repo: https://github.com/jaeyk/civic_data_science
+new_session: true
 delete_merged_file: true
 language:
   ui:

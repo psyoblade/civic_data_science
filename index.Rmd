@@ -1,16 +1,22 @@
 ---
 title: "시빅 데이터 사이언스: 데이터가 바꾸는 정부, 시민사회, 민주주의"
-author: "김재연"
+author: ["[김재연](https://jaeyk.github.io/)"]
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
-documentclass: book
-bibliography: [book.bib, packages.bib]
-# url: your book url like https://bookdown.org/yihui/bookdown
+github-repo: jaeyk/civic_data_science
+twitter-handle: JaeJaeykim2
 # cover-image: path to the social sharing image like images/cover.jpg
-description: |
+description: 
 시빅 데이터 사이언스. 데이터가 바꾸는 정부, 시민사회, 민주주의
 link-citations: yes
-github-repo: rstudio/bookdown-demo
+output: bookdown::gitbook
+documentclass: book
+bibliography:
+  - book.bib
+  - packages.bib
+biblio-style: apalike
+link-citations: yes
+colorlinks: yes 
 ---
 
 # 소개
