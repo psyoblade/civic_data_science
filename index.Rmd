@@ -18,7 +18,7 @@ colorlinks: yes
 
 # 목차
 
-1. 서론: 왜 공공 영역에서 데이터 사이언스가 필요한가
+[1. 서론: 왜 공공 영역에서 데이터 사이언스가 필요한가](https://jaeyk.github.io/civic_data_science/%EC%84%9C%EB%A1%A0-%EC%99%9C-%EA%B3%B5%EA%B3%B5-%EC%98%81%EC%97%AD%EC%97%90%EC%84%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%9C%EA%B0%80.html)
 
 2. 데이터가 바꾸는 정부
 
