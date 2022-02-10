@@ -24,7 +24,7 @@ colorlinks: yes
 
 ## 목차
 
-[1. 서론: 왜 공공 영역에서 데이터 사이언스가 필요한가](https://jaeyk.github.io/civic_data_science/%EC%84%9C%EB%A1%A0-%EC%99%9C-%EA%B3%B5%EA%B3%B5-%EC%98%81%EC%97%AD%EC%97%90%EC%84%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%9C%EA%B0%80.html)
+1. [서론: 왜 공공 영역에서 데이터 사이언스가 필요한가](https://jaeyk.github.io/civic_data_science/%EC%84%9C%EB%A1%A0-%EC%99%9C-%EA%B3%B5%EA%B3%B5-%EC%98%81%EC%97%AD%EC%97%90%EC%84%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%9C%EA%B0%80.html)
 
 2. 데이터가 바꾸는 정부
 
@@ -50,4 +50,4 @@ colorlinks: yes
 
   - 4.2. 데이터가 있는 곳에 권력이 있다
 
-5. 결론: 편리할 것은 편리하게, 불편할 것은 불편하게
+5. [결론: 편리할 것은 편리하게, 불편할 것은 불편하게](https://jaeyk.github.io/civic_data_science/%EA%B2%B0%EB%A1%A0-%ED%8E%B8%EB%A6%AC%ED%95%A0-%EA%B2%83%EC%9D%80-%ED%8E%B8%EB%A6%AC%ED%95%98%EA%B2%8C-%EB%B6%88%ED%8E%B8%ED%95%A0-%EA%B2%83%EC%9D%80-%EB%B6%88%ED%8E%B8%ED%95%98%EA%B2%8C.html)
