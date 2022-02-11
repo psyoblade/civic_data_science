@@ -1,7 +1,7 @@
 ---
 title: "시빅 데이터 사이언스: 데이터가 바꾸는 정부, 시민사회, 민주주의"
 author: ["[김재연](https://jaeyk.github.io/)"]
-date: "2022-02-10"
+date: "2022-02-11"
 site: bookdown::bookdown_site
 github-repo: jaeyk/civic_data_science
 twitter-handle: JaeJaeykim2
@@ -21,6 +21,28 @@ colorlinks: yes
 ## 저자
 
 [김재연](https://jaeyk.github.io/). KDI 국제정책대학원의 데이터 사이언스 담당 교수로 학생들에게 시빅 데이터 사이언스를 가르친다. 미국의 UC 버클리에서 정치학으로 석박사를 받았고, 같은 곳의 D-Lab (Data-intensive Social Science Lab)에서 시니어 데이터 사이언스 펠로우(Senior Data Science Fellow)로 일했다. 박사전, 그리고 박사후 연구원으로 미국 존스홉킨스 대학의 SNF 아고라 연구소에서 일했다. SNF 아고라 연구소에서 빅데이터와 기계학습을 통해 미국 시민사회를 체계적으로 분석하는 Mapping Modern Agora 프로젝트를 공동 진행했고, 현재도 이 프로젝트에 객원 연구원으로 참여하고 있다.
+
+## 진행상황
+
+### To do
+
+- 예화와 구체적 증거 추가
+
+- 주석, 참고 자료 추가
+
+- 정부 챕터 초고
+
+- 시민사회 챕터 초고
+
+- 민주주의 챕터 초고
+
+### In progress
+
+- 결론 초고
+
+### Done
+
+- 서론 초고
 
 ## 목차
 
