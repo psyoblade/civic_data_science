@@ -1,13 +1,18 @@
 ---
 title: "시빅 데이터 사이언스: 데이터가 바꾸는 정부, 시민사회, 민주주의"
 author: ["[김재연](https://jaeyk.github.io/)"]
-date: "Last update: 2022-02-11"
+date: "Last update: 2022-02-13"
 site: bookdown::bookdown_site
 github-repo: jaeyk/civic_data_science
 twitter-handle: JaeJaeykim2
 # cover-image: path to the social sharing image like images/cover.jpg
 description:
-output: bookdown::gitbook
+output:
+  bookdown::html_document2: default
+  bookdown::pdf_document2:
+    keep_tex: true
+  bookdown::word_document2:
+    toc: true
 documentclass: book
 bibliography:
   - book.bib

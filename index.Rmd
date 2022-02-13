@@ -7,7 +7,12 @@ github-repo: jaeyk/civic_data_science
 twitter-handle: JaeJaeykim2
 # cover-image: path to the social sharing image like images/cover.jpg
 description:
-output: bookdown::gitbook
+output:
+  bookdown::html_document2: default
+  bookdown::pdf_document2:
+    keep_tex: true
+  bookdown::word_document2:
+    toc: true
 documentclass: book
 bibliography:
   - book.bib
