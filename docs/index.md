@@ -21,7 +21,7 @@ link-citations: yes
 colorlinks: yes
 ---
 
-# 저자 및 목차
+# 저자 및 진행상황
 
 ## 저자
 
