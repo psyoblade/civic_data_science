@@ -4,7 +4,6 @@
 to-do
 in-progress
 done
-목차
 intro
 gov
 정부-오리지널-빅데이터
