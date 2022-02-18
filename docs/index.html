@@ -110,7 +110,7 @@ div.csl-indent {
 <li class="chapter" data-level="3.1" data-path="gov.html"><a href="gov.html#정부-오리지널-빅데이터"><i class="fa fa-check"></i><b>3.1</b> 정부, 오리지널 빅데이터</a></li>
 <li class="chapter" data-level="3.2" data-path="gov.html"><a href="gov.html#집행-예산과-지출-사이"><i class="fa fa-check"></i><b>3.2</b> 집행, 예산과 지출 사이</a></li>
 <li class="chapter" data-level="3.3" data-path="gov.html"><a href="gov.html#정부와-민간의-데이터-역량-차이"><i class="fa fa-check"></i><b>3.3</b> 정부와 민간의 데이터 역량 차이</a></li>
-<li class="chapter" data-level="3.4" data-path="gov.html"><a href="gov.html#데이터-기술-사람이-모두-중요하다"><i class="fa fa-check"></i><b>3.4</b> 데이터, 기술, 사람이 모두 중요하다</a></li>
+<li class="chapter" data-level="3.4" data-path="gov.html"><a href="gov.html#기술-사람-조직이-모두-중요하다"><i class="fa fa-check"></i><b>3.4</b> 기술, 사람, 조직이 모두 중요하다</a></li>
 </ul></li>
 <li class="chapter" data-level="4" data-path="civil_society.html"><a href="civil_society.html"><i class="fa fa-check"></i><b>4</b> 데이터가 바꾸는 시민사회</a>
 <ul>
@@ -244,6 +244,20 @@ gitbook.start({
 });
 </script>
 
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
 </body>
 
 </html>

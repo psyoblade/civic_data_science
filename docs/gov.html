@@ -110,7 +110,7 @@ div.csl-indent {
 <li class="chapter" data-level="3.1" data-path="gov.html"><a href="gov.html#정부-오리지널-빅데이터"><i class="fa fa-check"></i><b>3.1</b> 정부, 오리지널 빅데이터</a></li>
 <li class="chapter" data-level="3.2" data-path="gov.html"><a href="gov.html#집행-예산과-지출-사이"><i class="fa fa-check"></i><b>3.2</b> 집행, 예산과 지출 사이</a></li>
 <li class="chapter" data-level="3.3" data-path="gov.html"><a href="gov.html#정부와-민간의-데이터-역량-차이"><i class="fa fa-check"></i><b>3.3</b> 정부와 민간의 데이터 역량 차이</a></li>
-<li class="chapter" data-level="3.4" data-path="gov.html"><a href="gov.html#데이터-기술-사람이-모두-중요하다"><i class="fa fa-check"></i><b>3.4</b> 데이터, 기술, 사람이 모두 중요하다</a></li>
+<li class="chapter" data-level="3.4" data-path="gov.html"><a href="gov.html#기술-사람-조직이-모두-중요하다"><i class="fa fa-check"></i><b>3.4</b> 기술, 사람, 조직이 모두 중요하다</a></li>
 </ul></li>
 <li class="chapter" data-level="4" data-path="civil_society.html"><a href="civil_society.html"><i class="fa fa-check"></i><b>4</b> 데이터가 바꾸는 시민사회</a>
 <ul>
@@ -147,8 +147,14 @@ div.csl-indent {
             <section class="normal" id="section-">
 <div id="gov" class="section level1" number="3">
 <h1><span class="header-section-number"> 3</span> 데이터가 바꾸는 정부</h1>
+<blockquote>
+<p>“가진 도구가 망치 밖에 없는 사람에게는 모든 것이 못으로 보인다.”</p>
+<p>— 마크 트웨인</p>
+</blockquote>
 <div id="정부-오리지널-빅데이터" class="section level2" number="3.1">
 <h2><span class="header-section-number">3.1</span> 정부, 오리지널 빅데이터</h2>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9HXjLW7v-II?start=6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <div id="집행-예산과-지출-사이" class="section level2" number="3.2">
 <h2><span class="header-section-number">3.2</span> 집행, 예산과 지출 사이</h2>
@@ -156,8 +162,11 @@ div.csl-indent {
 <div id="정부와-민간의-데이터-역량-차이" class="section level2" number="3.3">
 <h2><span class="header-section-number">3.3</span> 정부와 민간의 데이터 역량 차이</h2>
 </div>
-<div id="데이터-기술-사람이-모두-중요하다" class="section level2" number="3.4">
-<h2><span class="header-section-number">3.4</span> 데이터, 기술, 사람이 모두 중요하다</h2>
+<div id="기술-사람-조직이-모두-중요하다" class="section level2" number="3.4">
+<h2><span class="header-section-number">3.4</span> 기술, 사람, 조직이 모두 중요하다</h2>
+<p><span class="math display">\[\begin{array}{ccc}
+혁신 = f(기술, 사람, 조직)
+\end{array}\]</span></p>
 
 </div>
 </div>
@@ -221,6 +230,20 @@ gitbook.start({
 });
 </script>
 
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
 </body>
 
 </html>
