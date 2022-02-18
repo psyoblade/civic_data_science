@@ -4,6 +4,7 @@
 to-do
 in-progress
 done
+라이선스
 intro
 gov
 정부-오리지널-빅데이터
@@ -19,3 +20,4 @@ civil_society
 데이터-주권-권리는-주어지는-것이-아니라-만들어진다
 conclusion
 references
+cover-image-path-to-the-social-sharing-image-like-imagescover.jpg
