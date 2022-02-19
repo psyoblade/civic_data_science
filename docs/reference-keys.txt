@@ -9,7 +9,7 @@ intro
 gov
 정부-오리지널-빅데이터
 집행-예산과-지출-사이
-정부와-민간의-데이터-역량-차이
+문제-해결보다-문제-정의가-더-중요하다
 기술-사람-조직이-모두-중요하다
 civil_society
 시민사회-피플파워
@@ -21,3 +21,5 @@ civil_society
 conclusion
 references
 cover-image-path-to-the-social-sharing-image-like-imagescover.jpg
+정부와-혁신
+정부와-데이터-혁신

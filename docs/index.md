@@ -1,7 +1,7 @@
 ---
 title: "시빅 데이터 사이언스: 데이터가 바꾸는 정부, 시민사회, 민주주의"
 author: ["[김재연](https://jaeyk.github.io/)"]
-date: "Last updated: 2022-02-19"
+date: "Last updated: 2022-02-20"
 site: bookdown::bookdown_site
 github-repo: jaeyk/civic_data_science
 twitter-handle: JaeJaeykim2
@@ -33,26 +33,24 @@ colorlinks: yes
 
 ### To do
 
-- 예화와 구체적 증거 추가
-
-- 정부 챕터 초고
-
 - 시민사회 챕터 초고
 
 - 민주주의 챕터 초고
 
 ### In progress
 
-- 주석, 참고 자료 추가
+- 서론 초고
+
+- 정부 챕터 초고
 
 - 결론 초고
 
-### Done
+- 주석, 참고 자료 추가
 
-- 서론 초고
+### Done
 
 ## 라이선스
 
-이 책은 Creative Commons BY-NC-SA 4.0 International License가 적용됩니다. 출처를 밝히시는 이상 (링크도 제공해 주세요) 공유하셔도 좋으나, 내용을 변경하시면 안 되고 상업적으로 활용하셔도 안 됩니다.
+이 책은 Creative Commons BY-NC-SA 4.0 International License가 적용된다. 출처를 밝히시는 이상 공유가 가능하나, 내용을 변경하면 안 되고 상업적으로 활용해도 안 된다.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Cc-by-nc-nd_icon.svg/180px-Cc-by-nc-nd_icon.svg.png)
