@@ -7,7 +7,7 @@ done
 라이선스
 intro
 gov
-정부-오리지널-빅데이터
+정부와-데이터-혁신
 집행-예산과-지출-사이
 문제-해결보다-문제-정의가-더-중요하다
 기술-사람-조직이-모두-중요하다
@@ -20,6 +20,3 @@ civil_society
 데이터-주권-권리는-주어지는-것이-아니라-만들어진다
 conclusion
 references
-cover-image-path-to-the-social-sharing-image-like-imagescover.jpg
-정부와-혁신
-정부와-데이터-혁신
