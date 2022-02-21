@@ -10,7 +10,9 @@ gov
 정부와-데이터-혁신
 데이터-기반-정책-집행
 문제-해결보다-문제-정의가-더-중요하다
-기술-사람-조직이-모두-중요하다
+절차적-정의와-사회적-정의는-같지-않다
+정책의-수혜-자격과-실제-필요는-같지-않다
+혁신을-위해서는-기술-사람-조직이-모두-중요하다
 civil_society
 시민사회-피플파워
 빅데이터로-그리는-정치-시민참여의-불평등
@@ -20,4 +22,3 @@ civil_society
 데이터-주권-권리는-주어지는-것이-아니라-만들어진다
 conclusion
 references
-cover-image-path-to-the-social-sharing-image-like-imagescover.jpg
